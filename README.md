@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8uraj" alt="8uraj" /></a> </p>
-
+<
 - 🔭 I’m currently working on **Auction Managment Sytstem**
 
 - 🌱 I’m currently learning **DevOps ,JAVA ,Python**
