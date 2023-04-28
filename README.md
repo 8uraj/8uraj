@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **surajyelpale7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CwiQYaszWpswg67gZFroGfdkDpZyxBh3/view?usp=share_link](https://drive.google.com/file/d/1CwiQYaszWpswg67gZFroGfdkDpZyxBh3/view?usp=share_link)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/11dFvFjgXVHDr7tEM1fLPlfZ750mUDK-_/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
