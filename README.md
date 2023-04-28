@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **DevOps ,JAVA ,Python**
 
-- 👨‍💻 All of my projects are available at [https://8uraj.github.io/surajweb](https://8uraj.github.io/surajweb)
+- 👨‍💻 All of my projects are available at [Portfolio](https://8uraj.github.io/surajweb)
 
-- 📝 I regularly write articles on [https://8uraj.github.io/surajweb](https://8uraj.github.io/surajweb)
+- 📝 I regularly write articles on [Articles](https://8uraj.github.io/surajweb)
 
 - 💬 Ask me about **DSA,DevOps,Cloud Computing,AWS**
 
-- 📫 How to reach me **surajyelpale7@gmail.com**
+- 📫 How to reach me [Mail](surajyelpale7@gmail.com)
 
 - 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/11dFvFjgXVHDr7tEM1fLPlfZ750mUDK-_/view?usp=share_link)
 
