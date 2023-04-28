@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps ,JAVA ,Python**
 
-- 👨‍💻 All of my projects are available at [https://8uraj.github.io/suraj.github.io](https://8uraj.github.io/suraj.github.io)
+- 👨‍💻 All of my projects are available at [https://8uraj.github.io/suraj.github.io](https://8uraj.github.io/surajweb)
 
 - 📝 I regularly write articles on [https://8uraj.github.io/suraj.github.io](https://8uraj.github.io/suraj.github.io)
 
