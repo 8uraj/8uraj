@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A Learner And Cloud Enthusiastic </h3>
 
 <
 - 🔭 I’m currently working on **Auction Managment Sytstem**
