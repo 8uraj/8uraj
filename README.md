@@ -2,7 +2,7 @@
 <h3 align="center">A Learner And Cloud Enthusiastic </h3>
 
 <
-- 🔭 I’m currently working on **Auction Managment Sytstem**
+- 🔭 I’m currently working on **Bloging Website Using Cloud Services**
 
 - 🌱 I’m currently learning **DevOps ,JAVA ,Python**
 
