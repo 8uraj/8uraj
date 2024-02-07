@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A Learner And Cloud Enthusiastic </h3>
 
-<
+
 - 🔭 I’m currently working on **Bloging Website Using Cloud Services**
 
 - 🌱 I’m currently learning **DevOps ,JAVA ,Python**
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/suraj-yelpale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-yelpale" height="30" width="40" /></a>
 <a href="https://fb.com/suraj.yelpale.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suraj.yelpale.96" height="30" width="40" /></a>
 <a href="https://instagram.com/surajyelpale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajyelpale" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/surajyelpale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surajyelpale" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@surajyelpale/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surajyelpale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
