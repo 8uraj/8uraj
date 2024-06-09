@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on **Bloging Website Using Cloud Services**
 
-- 🌱 I’m currently learning **DevOps ,JAVA ,Python**
+- 🌱 I’m currently learning **DevOps ,JAVA ,Python , Full Stack Devlopment**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://8uraj.github.io/surajweb)
+- 👨‍💻 All of my projects are available at [Portfolio](surajyelpale.wordpress.com)
 
-- 📝 I regularly write articles on [Articles](https://8uraj.github.io/surajweb)
+- 📝 I regularly write articles on [Articles](surajyelpale.wordpress.com)
 
 - 💬 Ask me about **DSA,DevOps,Cloud Computing,AWS**
 
 - 📫 How to reach me [Mail](surajyelpale7@gmail.com)
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/11dFvFjgXVHDr7tEM1fLPlfZ750mUDK-_/view?usp=share_link)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1EJ8CX1wYXdAnewBmIetLMuqZ-K-H-xkW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
