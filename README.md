@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **DevOps ,JAVA ,Python , Full Stack Devlopment**
 
-- 👨‍💻 All of my projects are available at [Portfolio](surajyelpale.wordpress.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://surajyelpale.wordpress.com)
 
-- 📝 I regularly write articles on [Articles](surajyelpale.wordpress.com)
+- 📝 I regularly write articles on [Articles](https://surajyelpale.wordpress.com)
 
 - 💬 Ask me about **DSA,DevOps,Cloud Computing,AWS**
 
