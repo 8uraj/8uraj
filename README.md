@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://surajyelpale.wordpress.com)
 
-- 📝 I regularly write articles on [Articles](https://surajyelpale.wordpress.com)
+- 📝 I write articles on [Articles](https://surajyelpale.wordpress.com)
 
 - 💬 Ask me about **DSA,DevOps,Cloud Computing,AWS**
 
