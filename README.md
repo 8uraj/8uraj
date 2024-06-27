@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate DevOps, Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8uraj&label=Profile%20views&color=0e75b6&style=flat" alt="8uraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8uraj" alt="8uraj" /></a> </p>
 
 - 🔭 I’m currently working on **Tracker Sheet Using Gemini**
 
@@ -17,7 +14,7 @@
 
 - 📫 How to reach me **surajyelpale7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EJ8CX1wYXdAnewBmIetLMuqZ-K-H-xkW/view](https://drive.google.com/file/d/1EJ8CX1wYXdAnewBmIetLMuqZ-K-H-xkW/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EJ8CX1wYXdAnewBmIetLMuqZ-K-H-xkW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
