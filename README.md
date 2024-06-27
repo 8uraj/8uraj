@@ -6,9 +6,9 @@
 
 - 🤝 I’m looking for help with **DSA , Building Inovation**
 
-- 👨‍💻 All of my projects are available at [https://surajyelpale.wordpress.com/](https://surajyelpale.wordpress.com/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://surajyelpale.wordpress.com/)
 
-- 📝 I regularly write articles on [https://surajy.hashnode.dev/](https://surajy.hashnode.dev/)
+- 📝 I regularly write articles on [Blogs](https://surajy.hashnode.dev/)
 
 - 💬 Ask me about **DSA,DevOps,Cloud Computing,AWS**
 
