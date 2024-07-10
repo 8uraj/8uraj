@@ -10,7 +10,7 @@ I'm a  `Web`, ` Cloud Computing` & `Software Developer` who just love to code in
 
 - 📫 How to reach me: surajyelpale7@gmail.com
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/suraj-yelpale/)
-- 🌐 Visit Our Site: [PortFolio](surajyelpale.wordpresss.com)
+- 🌐 Visit Our Site: [PortFolio](https://surajyelpale.wordpress.com/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
