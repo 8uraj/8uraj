@@ -6,8 +6,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-I'm a  `Web`, ` Cloud Computing` & `Software Developer` who just love to code in Python.
-
+I'm a  `Web`, ` Cloud Computing` & `Software Developer` who just love to Code.
 - 📫 How to reach me: surajyelpale7@gmail.com
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/suraj-yelpale/)
 - 🌐 Visit Our Site: [PortFolio](https://surajyelpale.wordpress.com/)
