@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Developer;Programmer;Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/14109896/file/original-777f02027982990d7685dbfb10101f94.mp4"></p>
 
  `Software Developer` who just love to Code.
 - 📫 How to reach me: surajyelpale7@gmail.com
