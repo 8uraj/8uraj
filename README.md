@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Developer;Programmer;Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
+<p align="center"><img align="center" alt="Coding" width="400" src="https://dribbble.com/shots/24010491-Designer-vs-Developer?utm_source=Clipboard_Shot&utm_campaign=agilie&utm_content=Designer%20vs%20Developer&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=agilie&utm_content=Designer%20vs%20Developer&utm_medium=Social_Share"></p>
 
 I'm a  `Web`, ` Cloud Computing` & `Software Developer` who just love to Code.
 - 📫 How to reach me: surajyelpale7@gmail.com
