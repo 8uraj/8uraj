@@ -1,4 +1,4 @@
-![](https://cdn.dribbble.com/userupload/14109896/file/original-777f02027982990d7685dbfb10101f94.mp4)
+![](https://www.animatedimages.org/data/media/707/animated-welcome-image-0033.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Suraj Yelpale! </h1>
 
