@@ -1,5 +1,4 @@
-![                                ](                
-                      https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhhdGdnNzY1dTB2dW10a3gybHlubGI4NDhwZGIwM2ZkM3lyOWRoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9urAfGd3grKV6E/giphy.gif)
+![](https://cdn.dribbble.com/userupload/14109896/file/original-777f02027982990d7685dbfb10101f94.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Suraj Yelpale! </h1>
 
