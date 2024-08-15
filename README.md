@@ -1,4 +1,4 @@
-![](https://github.com/8uraj/8uraj/blob/main/header.png)
+![](https://media.giphy.com/media/qChTqszpKjs7dKab69/giphy.gif?cid=ecf05e47wbyxcc4gyoeadhmwcmvstkz6xflfwyn81vcrsusu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Suraj Yelpale! </h1>
 
