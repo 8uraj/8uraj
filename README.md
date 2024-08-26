@@ -9,7 +9,7 @@
 - 📫 How to reach me: surajyelpale7@gmail.com
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/suraj-yelpale/)
 - 🌐 Visit : [PortFolio](https://surajyelpale.wordpress.com/)
-- <details open>
+<details open>
 <summary>🤝 <b>Connect with me</b></summary>
 
 <p align = "center">
@@ -54,7 +54,7 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=8uraj&show_icons=true&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8uraj&hide=css,shell">
+  <img src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8uraj&show_icons=true&theme=radical)">
  
 </p>
 </details>
