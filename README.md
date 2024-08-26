@@ -9,6 +9,20 @@
 - 📫 How to reach me: surajyelpale7@gmail.com
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/suraj-yelpale/)
 - 🌐 Visit : [PortFolio](https://surajyelpale.wordpress.com/)
+- <details open>
+<summary>🤝 <b>Connect with me</b></summary>
+
+<p align = "center">
+ 
+[<img src = "https://img.shields.io/badge/youtube-Suraj%20Yelpale-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@surajyelpale)
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suraj-yelpale/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/surajwtf_) 
+
+[![Visits Badge](https://komarev.com/ghpvc/?username=8uraj&style=for-the-badge)](https://github.com/8uraj/8uraj)
+
+</p>
+
+</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -31,20 +45,7 @@
 <br> 
 
 
-<details open>
-<summary>🤝 <b>Connect with me</b></summary>
 
-<p align = "center">
- 
-[<img src = "https://img.shields.io/badge/youtube-Suraj%20Yelpale-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@surajyelpale)
-[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suraj-yelpale/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/surajwtf_) 
-
-[![Visits Badge](https://komarev.com/ghpvc/?username=8uraj&style=for-the-badge)](https://github.com/8uraj/8uraj)
-
-</p>
-
-</details>
 
 ---
 
