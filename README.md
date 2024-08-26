@@ -55,7 +55,7 @@
 <p align = "center">
   
   <img src = "https://github-readme-stats.vercel.app/api?username=8uraj&show_icons=true&theme=radical">
-  <img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8uraj)](https://github.com/8uraj/github-readme-stats)">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8uraj">
 </p>
 </details>
 
