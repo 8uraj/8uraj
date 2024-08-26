@@ -17,7 +17,6 @@
 [<img src = "https://img.shields.io/badge/youtube-Suraj%20Yelpale-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@surajyelpale)
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suraj-yelpale/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/surajwtf_) 
-
 [![Visits Badge](https://komarev.com/ghpvc/?username=8uraj&style=for-the-badge)](https://github.com/8uraj/8uraj)
 
 </p>
