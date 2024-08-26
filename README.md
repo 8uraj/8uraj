@@ -53,8 +53,8 @@
  <summary><b>GitHub Stats</b> </summary>
 <br>
 <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8uraj&hide_progress=true">
   <img src = "https://github-readme-stats.vercel.app/api?username=8uraj&show_icons=true&theme=radical">
-  <img src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8uraj&show_icons=true&theme=radical)">
  
 </p>
 </details>
