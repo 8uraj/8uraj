@@ -8,7 +8,7 @@
  `Software Developer` who just love to Code.
 - 📫 How to reach me: surajyelpale7@gmail.com
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/suraj-yelpale/)
-- 🌐 Visit : [PortFolio](https://surajyelpale.netlify.app/))
+- 🌐 Visit : [PortFolio](https://surajyelpale.netlify.app/)
 <details open>
 <summary>🤝 <b>Connect with me</b></summary>
 
