@@ -23,16 +23,19 @@
 
 </details>
 <details>	
-<summary><b>🛠 Tech Stack/ Certifications</b></summary><br
+<details>	
+ <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
-<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+<a href="https://www.credly.com/badges/3785ae92-57e8-497f-95ae-b16dc4b2cbad/public_url">
+<img src="https://images.credly.com/size/220x220/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width="100px" height="100px" />
+<a href="https://www.credly.com/badges/4a7cbc24-3775-469e-9e76-971976067cdf/public_url">
+<img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="115px" height="108px" />
+<a href="https://www.credly.com/badges/b1e97ae7-7f2a-46ad-8429-58a7eddeb741/public_url">
+<img src="https://images.credly.com/size/220x220/images/ab346726-94b6-49d6-8110-b2463664c40d/image.png" width="110px" height="108px" />
+<a href="https://www.credly.com/badges/99d6ed97-a110-4cfe-a83b-c695c65298fb/public_url">
+<img src="https://images.credly.com/size/220x220/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="100px" height="105px" />
+<a href="https://www.credly.com/badges/ab9bfea5-ae2e-475c-b541-2eceae5a411d/public_url">
+  <img src="https://images.credly.com/size/220x220/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" width="100px" height="105px" />
 </div>
 </details> 
 
