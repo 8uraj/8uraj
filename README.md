@@ -23,8 +23,7 @@
 
 </details>
 <details>	
-<summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
-## Certification Badges 🪶
+<summary><b>🛠 Tech Stack/ Certifications</b></summary><br
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
