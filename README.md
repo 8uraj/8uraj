@@ -22,8 +22,8 @@
 </p>
 
 </details>
-<details>	
-<details>	
+
+
  <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://www.credly.com/badges/3785ae92-57e8-497f-95ae-b16dc4b2cbad/public_url">
@@ -37,7 +37,7 @@
 <a href="https://www.credly.com/badges/ab9bfea5-ae2e-475c-b541-2eceae5a411d/public_url">
   <img src="https://images.credly.com/size/220x220/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" width="100px" height="105px" />
 </div>
-</details> 
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
