@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Suraj Yelpale! </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Developer;Programmer;Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
+[![Open Source Helpers](https://www.codetriage.com/npm/cli/badges/users.svg)](https://www.codetriage.com/npm/cli)
 
 
  `Software Developer` who just love to Code.
