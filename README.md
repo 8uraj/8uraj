@@ -31,8 +31,8 @@
 <a href="https://www.credly.com/badges/3785ae92-57e8-497f-95ae-b16dc4b2cbad/public_url">
 <img src="https://images.credly.com/size/220x220/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width="100px" height="100px" />
 <a href="https://www.credly.com/badges/4a7cbc24-3775-469e-9e76-971976067cdf/public_url">
-<img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="115px" height="108px" />
-<a href="https://www.credly.com/badges/421ffa52-0f9d-4a31-ace4-ba54657e2c85/public_url">
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="115px" height="108px" />
+<a href="https://www.credly.com/earner/earned/badge/43e6ca9d-58d0-441d-ba66-686733170d79">
   <img src="https://images.credly.com/size/220x220/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="115px" height="108px" />
 <a href="https://www.credly.com/badges/b1e97ae7-7f2a-46ad-8429-58a7eddeb741/public_url">
 <img src="https://images.credly.com/size/220x220/images/ab346726-94b6-49d6-8110-b2463664c40d/image.png" width="110px" height="108px" />
